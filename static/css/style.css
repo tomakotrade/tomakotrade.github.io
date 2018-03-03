@@ -20,7 +20,7 @@ html, body {
 
 .banner {
 	height: 550px;
-	background-image: url('../img/banner-bg.jpg');
+	background-image: url('https://picsum.photos/600/300/?random');
 	background-size: cover;
 	background-position-y: 10%;
 }
